@@ -62,10 +62,10 @@ allSections.forEach((section) => {
 //*!--------------- Typed text ---------------*//
 
 var typed = new Typed(".hero__subtitle", {
-  strings: ["Machine Learning Engineer"],
+  strings: ["Machine Learning Engineer","AIML Undergraduate"],
   typeSpeed: 60,
   backSpeed: 60,
-  backDelay: 2800,
+  backDelay: 1200,
   startDelay: 1200,
   loop: true,
 });
